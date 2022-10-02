@@ -10,6 +10,7 @@ For iOS 16 and later.
     - buggy
  - [X] Pull down to refresh
  - [X] Track favorite comics
+ - [ ] App icon
  - [ ] Track read/unread comics
  - [ ] Save favorite comics for offline viewing
  - [ ] Background refresh / notifications
