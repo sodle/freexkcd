@@ -26,6 +26,7 @@
 		1A5DC22328E762BF00E36D79 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1A5DC22A28E7650E00E36D79 /* XkcdClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XkcdClient.swift; sourceTree = "<group>"; };
 		1A5FF31C28EA544600F918F7 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		1A5FF31E28EA558E00F918F7 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -46,6 +47,7 @@
 		1A5DC21028E762BE00E36D79 = {
 			isa = PBXGroup;
 			children = (
+				1A5FF31E28EA558E00F918F7 /* README.md */,
 				1A5FF31C28EA544600F918F7 /* .gitignore */,
 				1A5DC21B28E762BE00E36D79 /* freexkcd */,
 				1A5DC21A28E762BE00E36D79 /* Products */,
