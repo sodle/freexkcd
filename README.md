@@ -25,3 +25,6 @@ For iOS 16 and later.
 ## Known Bugs
  - "Favorites" filter button is off center on main screen
  - Pinch zooming / scrolling is janky
+
+## Privacy Policy
+No data is collected from this app!
